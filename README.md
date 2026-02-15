@@ -7,6 +7,10 @@ I specialize in web development using popular frameworks and mobile applications
  - **NESTJS**: To create the entire backend of my application, in addition to creating REST APIs.
  - **NextJS**: I use it to create the frontend and design the entire web application.
  - **Prisma**: Where I create the entire schema for a future database (PostgreSQL & Supabase)
+ - **Spring Boot**: Where I make the big business backend infraestructure
 ### Mobile development
 - **Expo**: I create the entire frontend there, and for the backend I use NestJS.
 - **Kotlin**: It helps me when I use Expo for some things that can't be reached.
+### DevOps
+- **Supabase**: Where I connect my DB PostgreSQL
+- **Azure**: For general use
