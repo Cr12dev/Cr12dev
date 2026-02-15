@@ -15,4 +15,5 @@ I specialize in web development using popular frameworks and mobile applications
 - **Supabase**: Where I connect my DB PostgreSQL
 - **Azure**: For general use
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr12dev&show_icons=true&theme=transparent)
+![Cr12 Stats](https://github-readme-stats.vercel.app/api?username=cr12dev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cr12dev&layout=compact)
