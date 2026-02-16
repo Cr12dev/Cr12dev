@@ -15,5 +15,9 @@ I specialize in web development using popular frameworks and mobile applications
 - **Supabase**: Where I connect my DB PostgreSQL
 - **Azure**: For general use
 
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
 ![Cr12 Stats](https://github-readme-stats.vercel.app/api?username=Cr12dev&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr12dev&layout=compact)
