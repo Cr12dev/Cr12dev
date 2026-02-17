@@ -10,7 +10,7 @@ I specialize in web development using popular frameworks and mobile applications
  - **🌿 · Spring Boot**: Where I make the big business backend infraestructure
 ### Mobile development
 - **Expo · 📱**: I create the entire frontend there, and for the backend I use NestJS.
-- **Kotlin · **: It helps me when I use Expo for some things that can't be reached.
+- **Kotlin · 📱**: It helps me when I use Expo for some things that can't be reached.
 ### DevOps
 - **Supabase · ⚡**: Where I connect my DB PostgreSQL
 - **Azure · 🧑‍💻**: For general use
@@ -21,7 +21,7 @@ I specialize in web development using popular frameworks and mobile applications
 
 ## Projects
 - [x] Java Spring Boot cheat-sheet
-- [ ] Mini inventory app for local businesses
+- [ ] Mini inventory app for local business
 
 ![Cr12 Stats](https://github-readme-stats.vercel.app/api?username=Cr12dev&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr12dev&layout=compact)
