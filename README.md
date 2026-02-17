@@ -23,5 +23,15 @@ I specialize in web development using popular frameworks and mobile applications
 - [x] Java Spring Boot cheat-sheet
 - [ ] Mini inventory app for local business
 
+<details>
+ <summary>
+  2025
+ </summary>
+ <details>
+  <summary>Feb</summary>
+  
+ </details>
+</details>
+
 ![Cr12 Stats](https://github-readme-stats.vercel.app/api?username=Cr12dev&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr12dev&layout=compact)
